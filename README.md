@@ -28,6 +28,9 @@
   <a href="https://discord.gg/1260712435564679332" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 
+  ![Eliseu Pereira](https://github-readme-stats.vercel.app/api?username=Eliseupereir&show_icons=true&theme=transparent)
+
+
 
   
 
